@@ -16,3 +16,10 @@ with col2:
     performing FEA simulation as a member of their NPD teams.
     """
     st.info(content)
+
+content2 = """
+Below you can find some of the apps I have built in Python. Feel free to 
+contact me!
+"""
+
+st.write(content2)
